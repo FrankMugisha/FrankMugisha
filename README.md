@@ -28,10 +28,10 @@ I enjoy creating solutions that make life easier — from efficient <b>inventory
 
 <h2>📜 Certifications</h2>
 
-- 🧠 ALX Africa — AI Career Essentials  
-- 🛡️ OPSWAT Academy — Critical Infrastructure Protection  
-- 💼 WRP — Transformational Sales Training  
-
+- 🧠 [AI Career Essentials — ALX Africa](https://github.com/FrankMugisha/FrankMugisha/raw/main/WhatsApp%20Image%202025-11-04%20at%207.39.56%20PM.jpeg
+)
+- 🛡️ [Cybersecurity Essentials — CISCO Academy](https://github.com/FrankMugisha/FrankMugisha/raw/main/Cyber%20Essentials.pdf)
+- 💼 [Transformational Sales Training — WRP](https://github.com/FrankMugisha/FrankMugisha/raw/main/wrp%20certificate%2004-Nov-2025%2019-48-46.pdf)
 ---
 
 <h2>🎯 Career Goals</h2>
@@ -43,8 +43,6 @@ I’m currently growing in **Cybersecurity** and **Full Stack Development**, wit
 <h2>📺 Projects & Demos</h2>
 
 - [Nyabona App Demo (Coming Soon)](#)
-- [Inventory Management System Overview (Coming Soon)](#)
-- [How I Built My Portfolio Using GitHub Pages + Notion](#)
 
 ---
 
