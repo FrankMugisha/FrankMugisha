@@ -68,13 +68,35 @@ It integrates <b>Firebase</b> for real-time data and <b>Mobile Money / MomoPay</
 **Payment & Confirmation**
 ![Payment Flow](https://github.com/FrankMugisha/FrankMugisha/raw/main/MTN_payment_done.jpeg)
 
+
 <h3>⚙️ Key Features</h3>
 
 - Smart route calculation and distance-based pricing  
 - Driver booking and notification via Firebase  
 - Integration with Momo Pay and other Rwandan payment systems  
 - Admin dashboard for inventory and client management  
-- Built with React Native, Node.js, and Firebase  
+- Built with React Native, Node.js, and Firebase
+
+
+  ---
+
+<h2>💻 IT Support Tools</h2>
+
+With 3+ years of technical support experience, I’ve worked on various IT operations, troubleshooting, and system automation tasks. Here are a few tools and concepts I’ve implemented or plan to build:
+
+- **Inventory Management Tracker (Custom System for Business Owners)**  
+  A web-based system designed to automatically track stock, handle payments, and generate reports.  
+
+- **Windows System Health Script (PowerShell)**  
+  Automates checks for system updates, network connectivity, and disk usage — improving troubleshooting efficiency.
+
+- **Network Diagnostics Tool (Python)**  
+  CLI-based app to test device connectivity, ping latency, and DNS resolution issues.  
+  *Goal:* Support quick IT troubleshooting in low-connectivity areas.
+
+- **Pulse Data Optimization Study**  
+  Documented improvements and compliance workflows for managing LPG stock within the Pulse inventory system.  
+  *Focus:* Process analysis, error reduction, and user accountability.
 
 
 ---
