@@ -88,7 +88,8 @@ With 3+ years of technical support experience, I’ve worked on various IT opera
   A web-based system designed to automatically track stock, handle payments, and generate reports.  
 
 - **Windows System Health Script (PowerShell)**  
-  Automates checks for system updates, network connectivity, and disk usage — improving troubleshooting efficiency.
+ Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed.
+  [View Project →](https://github.com/FrankMugisha/IT-Support)
 
 - **Network Diagnostics Tool (Python)**  
   CLI-based app to test device connectivity, ping latency, and DNS resolution issues.  
