@@ -39,10 +39,43 @@ I enjoy creating solutions that make life easier — from efficient <b>inventory
 I’m currently growing in **Cybersecurity** and **Full Stack Development**, with a goal to combine technical expertise and creative solutions to build impactful digital tools for African communities.
 
 ---
-
 <h2>📺 Projects & Demos</h2>
 
-- [Nyabona App Demo (Coming Soon)](#)
+<h2>📱 Nyabona App — Ride-Hailing & Drunk Driving Prevention</h2>
+
+<p>
+Nyabona is a Rwandan-built mobile app developed using <b>React Native (Expo)</b> and <b>Node.js</b> that helps reduce drunk driving by connecting users with sober drivers and offering car rental options.  
+It integrates <b>Firebase</b> for real-time data and <b>Mobile Money / MomoPay</b> for in-app payments.
+</p>
+
+<h3>🖼️ Screenshots</h3>
+
+**Home Screen**
+![Home Screen](https://github.com/FrankMugisha/FrankMugisha/raw/main/Home.jpeg)
+
+**Login Page**
+![Login Page](https://github.com/FrankMugisha/FrankMugisha/raw/main/Login.jpeg)
+
+**Verification**
+![Verification](https://github.com/FrankMugisha/FrankMugisha/raw/main/Verification.jpeg)
+
+**Booking Interface**
+![Booking Screen](https://github.com/FrankMugisha/FrankMugisha/raw/main/Booking.jpeg)
+
+**Trip Completed**
+![Trip Completed](https://github.com/FrankMugisha/FrankMugisha/raw/main/Trip_Completed.jpeg)
+
+**Payment & Confirmation**
+![Payment Flow](https://github.com/FrankMugisha/FrankMugisha/raw/main/MTN_payment_done.jpeg)
+
+<h3>⚙️ Key Features</h3>
+
+- Smart route calculation and distance-based pricing  
+- Driver booking and notification via Firebase  
+- Integration with Momo Pay and other Rwandan payment systems  
+- Admin dashboard for inventory and client management  
+- Built with React Native, Node.js, and Firebase  
+
 
 ---
 
@@ -50,14 +83,11 @@ I’m currently growing in **Cybersecurity** and **Full Stack Development**, wit
 
 [<img align="left" alt="FrankMugisha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FrankMugisha | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="FrankMugisha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="FrankMugisha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br/>
 
-[twitter]: https://twitter.com/yourusername
-[instagram]: https://instagram.com/yourusername
-[linkedin]: https://linkedin.com/in/frank-mugisha
+[linkedin]: https://linkedin.com/in/frank-mugisha-got
 [github]: https://github.com/FrankMugisha
 
 ---
